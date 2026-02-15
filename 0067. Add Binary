@@ -1,0 +1,33 @@
+Given two binary strings a and b, return their sum as a binary string.
+
+Solution:
+class Solution {
+public:
+    string addBinary(string a, string b) {
+        int n=a.size()-1;
+        int m=b.size()-1;
+        int c=0;
+        string res="";
+        while(n>=0||m>=0||c){
+            int sum=c;
+            if(n>=0)
+             sum+=a[n--]-'0';
+            if(m>=0)
+             sum+=b[m--]-'0';
+             
+            res+=(sum%2)+'0';
+            c=sum/2;
+            
+        }
+        reverse(res.begin(),res.end());
+        return res;
+    }
+};
+
+Example 1:
+Input: a = "11", b = "1"
+Output: "100"
+
+Example 2:
+Input: a = "1010", b = "1011"
+Output: "10101"
