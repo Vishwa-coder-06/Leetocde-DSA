@@ -1,0 +1,66 @@
+You are given a string s and an integer k, a k duplicate removal consists of choosing k adjacent and equal letters from s and removing them, 
+causing the left and the right side of the deleted substring to concatenate together.
+We repeatedly make k duplicate removals on s until we no longer can.
+Return the final string after all such duplicate removals have been made. It is guaranteed that the answer is unique.
+
+Solution: 
+sol1(using stack)
+class Solution {
+public:
+    string removeDuplicates(string s, int k) {
+        stack<pair<char,int>>stk;
+        for(char ch:s){
+            if(!stk.empty() && stk.top().first==ch){
+                stk.top().second++;
+                if(stk.top().second==k) 
+                  stk.pop();
+            }
+            else
+               stk.push({ch,1});
+        }
+        string res;
+        while(!stk.empty()){
+            res+=string(stk.top().second,stk.top().first);
+            stk.pop();
+        }
+        reverse(res.begin(),res.end());
+        return res;
+    }
+};
+
+sol2 (in place)
+class Solution {
+public:
+    string removeDuplicates(string s, int k) {
+        vector<int> cnt(s.size());
+        int i=0;
+        for(int j=0;j<s.size();j++){
+            s[i]=s[j];
+            if(i>0 && s[i]==s[i-1])
+              cnt[i]=cnt[i-1]+1;
+            else cnt[i]=1;
+
+            if(cnt[i]==k)
+               i-=k-1;
+            else i++;
+        }
+        return s.substr(0,i);
+    }
+};
+
+Example 1:
+Input: s = "abcd", k = 2
+Output: "abcd"
+Explanation: There's nothing to delete.
+
+Example 2:
+Input: s = "deeedbbcccbdaa", k = 3
+Output: "aa"
+Explanation: 
+First delete "eee" and "ccc", get "ddbbbdaa"
+Then delete "bbb", get "dddaa"
+Finally delete "ddd", get "aa"
+
+Example 3:
+Input: s = "pbbcggttciiippooaais", k = 2
+Output: "ps"
