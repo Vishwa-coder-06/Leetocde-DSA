@@ -1,0 +1,40 @@
+Given a string s and an integer k, return the length of the longest substring of s such that the frequency of each character in this substring is greater than or equal to k.
+if no such substring exists, return 0.
+
+Solution:
+class Solution {
+public:
+    int longestSubstring(string s, int k) {
+        int maxi=0;
+        for(int i=1;i<=26;i++){
+            int l=0,r=0;
+             vector<int>hash(26,0);
+             int unique=0,kcount=0;
+             while(r<s.size()){
+                hash[s[r]-'a']++;
+                if(hash[s[r]-'a']==1) unique++;
+                if(hash[s[r]-'a']==k) kcount++;
+                while(unique>i){
+                    if(hash[s[l]-'a']==k) kcount--;
+                    hash[s[l]-'a']--;
+                    if(hash[s[l]-'a']==0) unique--;
+                    l++;
+                }
+                if(unique == i && unique == kcount)
+                maxi=max(maxi,r-l+1);
+                r++;
+             }
+        }
+        return maxi;
+    }
+};
+
+Example 1:
+Input: s = "aaabb", k = 3
+Output: 3
+Explanation: The longest substring is "aaa", as 'a' is repeated 3 times.
+
+Example 2:
+Input: s = "ababbc", k = 2
+Output: 5
+Explanation: The longest substring is "ababb", as 'a' is repeated 2 times and 'b' is repeated 3 times.
