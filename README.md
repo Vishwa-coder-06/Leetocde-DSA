@@ -16,3 +16,11 @@ organized numerically and written in C++.
 ## Author
 Vishwa M
 ECE Student
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
+<!---LeetCode Topics End-->
