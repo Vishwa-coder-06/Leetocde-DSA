@@ -24,6 +24,7 @@ ECE Student
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/master/0455-assign-cookies) |
 | [0819-most-common-word](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0819-most-common-word/) | Easy |
+| [2012-sum-of-beauty-in-the-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2012-sum-of-beauty-in-the-array/) | Medium |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Two Pointers
 | Problem Name | Difficulty |
