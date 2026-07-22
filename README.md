@@ -26,6 +26,7 @@ ECE Student
 | [0198-house-robber](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0198-house-robber/) | Medium |
 | [0455-assign-cookies](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/master/0455-assign-cookies) |
 | [0819-most-common-word](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0819-most-common-word/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2012-sum-of-beauty-in-the-array/) | Medium |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
@@ -41,6 +42,7 @@ ECE Student
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/master/0455-assign-cookies) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -48,6 +50,7 @@ ECE Student
 | [0001-two-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0001-two-sum/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0819-most-common-word](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0819-most-common-word/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
