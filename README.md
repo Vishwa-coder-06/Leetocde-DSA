@@ -28,6 +28,7 @@ ECE Student
 | [0804-unique-morse-code-words](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0819-most-common-word](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0819-most-common-word/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0890-find-and-replace-pattern/) | Medium |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2012-sum-of-beauty-in-the-array/) | Medium |
@@ -56,6 +57,7 @@ ECE Student
 | [0804-unique-morse-code-words](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0819-most-common-word](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0819-most-common-word/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0890-find-and-replace-pattern/) | Medium |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## String
@@ -68,6 +70,7 @@ ECE Student
 | [0804-unique-morse-code-words](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0819-most-common-word](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0819-most-common-word/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0890-find-and-replace-pattern/) | Medium |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 ## Counting
@@ -75,6 +78,7 @@ ECE Student
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0819-most-common-word](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0819-most-common-word/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
