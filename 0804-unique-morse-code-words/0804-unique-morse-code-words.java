@@ -1,11 +1,11 @@
 class Solution {
     public String getMorse(String word){
         String []morse={".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."};
-        String res="";
+        StringBuilder res=new StringBuilder() ;
         for(int i=0;i<word.length();i++){
-            res+=morse[word.charAt(i)-'a'];
+            res.append(morse[word.charAt(i)-'a']);
         }
-        return res;
+        return res.toString();
     }
     public int uniqueMorseRepresentations(String[] words) {
        HashSet<String>st=new HashSet<>();
