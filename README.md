@@ -40,6 +40,7 @@ ECE Student
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0392-is-subsequence](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -75,6 +76,7 @@ ECE Student
 | [0168-excel-sheet-column-title](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0819-most-common-word](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0819-most-common-word/) | Easy |
@@ -102,4 +104,5 @@ ECE Student
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0198-house-robber/) | Medium |
+| [0392-is-subsequence](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
