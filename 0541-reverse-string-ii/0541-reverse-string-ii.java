@@ -1,6 +1,10 @@
 class Solution {
-    public String reverse(String s,int l,int r){
-        char [] chararr=s.toCharArray();
+    public String reverseStr(String s, int k) {
+         char [] chararr=s.toCharArray();
+        int n=chararr.length;
+        for(int i=0;i<n;i+=2*k){
+            int l=i;
+            int r=(i+k-1<n)?i+k-1:n-1;
         while(l<r){
             char temp=chararr[l];
             chararr[l]=chararr[r];
@@ -8,15 +12,7 @@ class Solution {
             l++;
             r--;
         }
-        return new String(chararr);
-    }
-    public String reverseStr(String s, int k) {
-        int n=s.length();
-        for(int i=0;i<n;i+=2*k){
-            int left=i;
-            int right=(i+k-1<n)?i+k-1:n-1;
-            s=reverse(s,left,right);
         }
-        return s;
+        return new String(chararr);
     }
 }
