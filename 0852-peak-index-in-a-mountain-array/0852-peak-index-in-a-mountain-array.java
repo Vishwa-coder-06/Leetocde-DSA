@@ -3,12 +3,12 @@ class Solution {
         int l=0,h=arr.length-1,peak=0;
         while(l<h){
             int mid=l+(h-l)/2;
-            if(arr[mid]<arr[mid+1]){
-                peak=l=mid+1;
+            if(arr[mid]>arr[mid+1] && arr[mid]>arr[mid-1])return mid;
+            else if(arr[mid]<arr[mid+1]){
+                l=mid+1;
             }
             else h=mid;
-            System.out.println(mid);
         }
-        return peak;
+        return l;
     }
 }
