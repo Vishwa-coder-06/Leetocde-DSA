@@ -30,6 +30,7 @@ ECE Student
 | [0819-most-common-word](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0819-most-common-word/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0890-find-and-replace-pattern/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0948-bag-of-tokens](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0948-bag-of-tokens/) | Medium |
 | [1089-duplicate-zeros](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1089-duplicate-zeros/) | Easy |
@@ -75,6 +76,7 @@ ECE Student
 | [0804-unique-morse-code-words](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0819-most-common-word](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0819-most-common-word/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0890-find-and-replace-pattern/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
@@ -120,5 +122,6 @@ ECE Student
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 <!---LeetCode Topics End-->
