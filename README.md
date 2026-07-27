@@ -38,6 +38,7 @@ ECE Student
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2012-sum-of-beauty-in-the-array/) | Medium |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
@@ -119,12 +120,14 @@ ECE Student
 | ------- | ------- |
 | [0198-house-robber](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0392-is-subsequence/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
