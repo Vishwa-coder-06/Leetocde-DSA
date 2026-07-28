@@ -33,6 +33,7 @@ ECE Student
 | [0890-find-and-replace-pattern](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0948-bag-of-tokens/) | Medium |
 | [1089-duplicate-zeros](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1089-duplicate-zeros/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -113,6 +114,7 @@ ECE Student
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +125,7 @@ ECE Student
 | ------- | ------- |
 | [0198-house-robber](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0392-is-subsequence/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -136,4 +139,12 @@ ECE Student
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
