@@ -14,7 +14,6 @@ class Solution {
             mini=Math.min(currmin,mini);
             if(currmin>0)currmin=0;
         }
-        System.out.println(maxi+" "+mini);
         return Math.max(Math.abs(maxi),Math.abs(mini));
     }
 }
