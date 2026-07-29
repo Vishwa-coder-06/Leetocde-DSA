@@ -9,11 +9,6 @@
  * }
  */
 class Solution {
-    static {
-        for (int i = 0; i < 500; i++) {
-             mergeKLists(new ListNode[]{});  
-        }
-    }
      public static ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         ListNode res=new ListNode(-1);
         ListNode temp=res;
