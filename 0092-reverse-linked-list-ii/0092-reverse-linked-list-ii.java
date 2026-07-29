@@ -21,6 +21,7 @@ class Solution {
         return prev;
     }
     public ListNode reverseBetween(ListNode head, int left, int right) {
+        if(head == null || left==right)return head;
         ListNode res=new ListNode(-1);
         res.next=head;
         ListNode prerev=res;
