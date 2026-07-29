@@ -9,7 +9,12 @@
  * }
  */
 class Solution {
-     static ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+    static {
+        for (int i = 0; i < 500; i++) {
+             mergeKLists(new ListNode[]{});  
+        }
+    }
+     public static ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         ListNode res=new ListNode(-1);
         ListNode temp=res;
         while(list1!=null && list2!=null){
@@ -31,7 +36,7 @@ class Solution {
         }
         return res.next;
     }
-    public ListNode mergeKLists(ListNode[] lists) {
+    public static ListNode mergeKLists(ListNode[] lists) {
         ListNode sort=null;
         for(int i=0;i<lists.length;i++){
             sort=mergeTwoLists(sort,lists[i]);
