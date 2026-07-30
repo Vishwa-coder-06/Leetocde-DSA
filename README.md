@@ -93,6 +93,7 @@ ECE Student
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0071-simplify-path](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0071-simplify-path/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -187,6 +188,7 @@ ECE Student
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0071-simplify-path](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0071-simplify-path/) | Medium |
 | [0682-baseball-game](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
