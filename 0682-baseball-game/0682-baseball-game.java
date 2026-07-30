@@ -14,8 +14,7 @@ class Solution {
                     sum+=st.peek();
                     break;
                 case "D":
-                    int prev=st.peek();
-                    st.push(prev*2);
+                    st.push(st.peek()*2);
                     sum+=st.peek();
                     break;
                 case "C": 
