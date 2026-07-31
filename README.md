@@ -161,6 +161,7 @@ ECE Student
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,6 +182,7 @@ ECE Student
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,4 +203,20 @@ ECE Student
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
