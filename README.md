@@ -129,6 +129,7 @@ ECE Student
 | [0168-excel-sheet-column-title](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0877-stone-game](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0877-stone-game/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,4 +235,8 @@ ECE Student
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0877-stone-game/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
