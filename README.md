@@ -95,6 +95,7 @@ ECE Student
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0071-simplify-path](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0071-simplify-path/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -136,6 +137,7 @@ ECE Student
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0198-house-robber](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0877-stone-game](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0877-stone-game/) | Medium |
@@ -247,9 +249,14 @@ ECE Student
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0078-subsets](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0078-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0078-subsets/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
