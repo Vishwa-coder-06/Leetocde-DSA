@@ -273,11 +273,13 @@ ECE Student
 | [0079-word-search](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0401-binary-watch](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0401-binary-watch/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0090-subsets-ii/) | Medium |
+| [0401-binary-watch](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0401-binary-watch/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
