@@ -58,6 +58,7 @@ ECE Student
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0143-reorder-list](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0143-reorder-list/) | Medium |
 | [0392-is-subsequence](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0541-reverse-string-ii/) | Easy |
@@ -188,12 +189,14 @@ ECE Student
 | [0021-merge-two-sorted-lists](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0092-reverse-linked-list-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0143-reorder-list](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0050-powx-n/) | Medium |
+| [0143-reorder-list](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [1922-count-good-numbers](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1922-count-good-numbers/) | Medium |
 ## Heap (Priority Queue)
@@ -209,6 +212,7 @@ ECE Student
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0071-simplify-path/) | Medium |
+| [0143-reorder-list](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0143-reorder-list/) | Medium |
 | [0682-baseball-game](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
