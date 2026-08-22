@@ -138,6 +138,7 @@ ECE Student
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +188,7 @@ ECE Student
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1172-dinner-plate-stacks](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1172-dinner-plate-stacks/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -255,6 +257,7 @@ ECE Student
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
