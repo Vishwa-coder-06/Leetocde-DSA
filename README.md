@@ -250,6 +250,7 @@ ECE Student
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0113-path-sum-ii/) | Medium |
@@ -269,6 +270,7 @@ ECE Student
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0113-path-sum-ii/) | Medium |
@@ -328,6 +330,7 @@ ECE Student
 | ------- | ------- |
 | [0079-word-search](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0113-path-sum-ii/) | Medium |
@@ -356,6 +359,7 @@ ECE Student
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0112-path-sum/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
