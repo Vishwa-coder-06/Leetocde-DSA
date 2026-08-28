@@ -117,6 +117,7 @@ ECE Student
 | [0131-palindrome-partitioning](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0541-reverse-string-ii/) | Easy |
@@ -270,6 +271,7 @@ ECE Student
 | [0144-binary-tree-preorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -307,6 +309,7 @@ ECE Student
 | [0144-binary-tree-preorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -350,6 +353,7 @@ ECE Student
 | [0090-subsets-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0401-binary-watch](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0401-binary-watch/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -375,6 +379,7 @@ ECE Student
 | [0144-binary-tree-preorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
