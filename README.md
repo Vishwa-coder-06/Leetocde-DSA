@@ -266,6 +266,7 @@ ECE Student
 | [0145-binary-tree-postorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -277,6 +278,7 @@ ECE Student
 | [0098-validate-binary-search-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -297,6 +299,7 @@ ECE Student
 | [0145-binary-tree-postorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -361,6 +364,7 @@ ECE Student
 | [0144-binary-tree-preorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -388,6 +392,7 @@ ECE Student
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0112-path-sum/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
