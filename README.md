@@ -254,6 +254,7 @@ ECE Student
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -272,6 +273,7 @@ ECE Student
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -281,6 +283,7 @@ ECE Student
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -346,6 +349,7 @@ ECE Student
 | ------- | ------- |
 | [0079-word-search](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0112-path-sum/) | Easy |
