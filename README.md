@@ -67,6 +67,7 @@ ECE Student
 | [0392-is-subsequence](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0541-reverse-string-ii/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -96,6 +97,7 @@ ECE Student
 | [0037-sudoku-solver](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0819-most-common-word](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0819-most-common-word/) | Easy |
@@ -271,6 +273,7 @@ ECE Student
 | [0450-delete-node-in-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -283,6 +286,7 @@ ECE Student
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -306,6 +310,7 @@ ECE Student
 | [0450-delete-node-in-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -372,6 +377,7 @@ ECE Student
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
@@ -399,6 +405,7 @@ ECE Student
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0112-path-sum/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
