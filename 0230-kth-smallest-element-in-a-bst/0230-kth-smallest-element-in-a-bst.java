@@ -14,21 +14,22 @@
  * }
  */
 class Solution {
-    public int kthSmallest(TreeNode root, int k) {
-        Stack<TreeNode> st=new Stack<>();
-        TreeNode curr=root;
-        while(curr!=null || !st.isEmpty()){
-            while(curr!=null){
-                st.push(curr);
-                curr=curr.left;
-            }
+    int cnt=0;
+    int ans=-1;
+    void dfs_in(TreeNode root,int k){
+        if(root==null) return;
 
-            curr=st.pop();
-            k--;
-            if(k==0) return curr.val;
+        dfs_in(root.left,k);
+        cnt++;
 
-            curr=curr.right;
+        if(cnt==k){
+            ans=root.val;
         }
-        return -1;
+        dfs_in(root.right,k);
+    }
+    public int kthSmallest(TreeNode root, int k) {
+        dfs_in(root,k);
+        return ans;
+       
     }
 }
