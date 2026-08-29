@@ -385,6 +385,7 @@ ECE Student
 | [0547-number-of-provinces](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0841-keys-and-rooms](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Matrix
@@ -414,6 +415,7 @@ ECE Student
 | [0547-number-of-provinces](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0841-keys-and-rooms](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -427,4 +429,5 @@ ECE Student
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 <!---LeetCode Topics End-->
