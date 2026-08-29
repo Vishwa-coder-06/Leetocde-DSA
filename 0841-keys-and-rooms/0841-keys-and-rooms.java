@@ -12,13 +12,12 @@ class Solution {
             adj.put(i,new ArrayList<>(rooms.get(i)));
         }
         boolean[] visited=new boolean[n];
-        int ans=-1;
+        dfs(0,visited,adj);
+
         for(int i=0;i<n;i++){
-            if(!visited[i]){
-                ans++;
-                dfs(i,visited,adj);
-            }
+            if(!visited[i])return false;
         }
-        return ans==0;
+       
+        return true;
     }
 }
