@@ -52,6 +52,7 @@ ECE Student
 | [0918-maximum-sum-circular-subarray](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0948-bag-of-tokens/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0978-longest-turbulent-subarray/) | Medium |
+| [0994-rotting-oranges](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1089-duplicate-zeros](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1089-duplicate-zeros/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -404,6 +405,7 @@ ECE Student
 | [0200-number-of-islands](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Algorithm X
 | Problem Name | Difficulty |
@@ -430,6 +432,7 @@ ECE Student
 | [0733-flood-fill](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0733-flood-fill/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0841-keys-and-rooms](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0841-keys-and-rooms/) | Medium |
+| [0994-rotting-oranges](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0994-rotting-oranges/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
