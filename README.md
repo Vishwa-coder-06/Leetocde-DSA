@@ -54,6 +54,7 @@ ECE Student
 | [0948-bag-of-tokens](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0948-bag-of-tokens/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [0994-rotting-oranges](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0994-rotting-oranges/) | Medium |
+| [0997-find-the-town-judge](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0997-find-the-town-judge/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1089-duplicate-zeros](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1089-duplicate-zeros/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -110,6 +111,7 @@ ECE Student
 | [0819-most-common-word](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0819-most-common-word/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0997-find-the-town-judge](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0997-find-the-town-judge/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1172-dinner-plate-stacks](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1172-dinner-plate-stacks/) | Hard |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
@@ -453,4 +455,5 @@ ECE Student
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0841-keys-and-rooms/) | Medium |
+| [0997-find-the-town-judge](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0997-find-the-town-judge/) | Easy |
 <!---LeetCode Topics End-->
