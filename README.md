@@ -12,6 +12,8 @@ organized numerically and written in C++.
 
 ## Language
 - C++
+- Java
+- Sql
 
 ## Author
 Vishwa M
