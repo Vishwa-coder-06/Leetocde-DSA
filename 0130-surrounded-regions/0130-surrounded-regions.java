@@ -12,12 +12,12 @@ class Solution {
         if(board == null || board.length == 0)return;
         int n=board.length;
         int m=board[0].length;
-        //first and last row
+        //first and last col
         for(int i=0;i<n;i++){
             if(board[i][0]=='O') dfs(i,0,board);
             if(board[i][m-1]=='O') dfs(i,m-1,board);
         }
-        //first and last col
+        //first and last row
         for(int i=0;i<m;i++){
             if(board[0][i]=='O') dfs(0,i,board);
             if(board[n-1][i]=='O') dfs(n-1,i,board);
