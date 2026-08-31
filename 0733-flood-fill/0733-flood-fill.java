@@ -1,0 +1,24 @@
+class Solution {
+    void dfs(int row,int col,int[][] image,int color,int org){
+        int m=image.length;
+        int n=image[0].length;
+        if(row<0 || row>=m || col<0 || col>=n) return;
+        if(image[row][col]!=org) return;
+        
+        image[row][col]=color;
+
+        dfs(row-1,col,image,color,org);
+        dfs(row+1,col,image,color,org);
+        dfs(row,col+1,image,color,org);
+        dfs(row,col-1,image,color,org);
+    }
+
+    public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+        int org=image[sr][sc];
+        if(org == color)return image;
+
+        dfs(sr,sc,image,color,org);
+        return image;
+        
+    }
+}
