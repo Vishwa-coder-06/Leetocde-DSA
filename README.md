@@ -179,6 +179,7 @@ ECE Student
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -473,6 +474,7 @@ ECE Student
 | [0841-keys-and-rooms](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0997-find-the-town-judge/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -481,8 +483,14 @@ ECE Student
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0743-network-delay-time/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0743-network-delay-time/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 <!---LeetCode Topics End-->
