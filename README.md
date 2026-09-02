@@ -284,6 +284,7 @@ ECE Student
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -323,6 +324,7 @@ ECE Student
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -396,6 +398,7 @@ ECE Student
 | [0130-surrounded-regions](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0257-binary-tree-paths/) | Easy |
@@ -444,6 +447,7 @@ ECE Student
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0112-path-sum/) | Easy |
 | [0130-surrounded-regions](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0130-surrounded-regions/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0463-island-perimeter/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
