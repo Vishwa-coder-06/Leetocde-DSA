@@ -65,6 +65,7 @@ ECE Student
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1584-min-cost-to-connect-all-points](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2012-sum-of-beauty-in-the-array/) | Medium |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -464,6 +465,7 @@ ECE Student
 | [0200-number-of-islands](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0695-max-area-of-island/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -473,6 +475,7 @@ ECE Student
 | [0797-all-paths-from-source-to-target](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0997-find-the-town-judge/) | Easy |
+| [1584-min-cost-to-connect-all-points](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Directed Acyclic Graph
@@ -493,4 +496,20 @@ ECE Student
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Prim's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Kruskal's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Borůvka's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 <!---LeetCode Topics End-->
