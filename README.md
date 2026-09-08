@@ -171,6 +171,7 @@ ECE Student
 | [0877-stone-game](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0877-stone-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1922-count-good-numbers/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3870-count-commas-in-range](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3870-count-commas-in-range/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
