@@ -27,6 +27,7 @@ ECE Student
 | [0001-two-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0001-two-sum/) | Easy |
 | [0037-sudoku-solver](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0079-word-search/) | Medium |
@@ -380,6 +381,7 @@ ECE Student
 | [0022-generate-parentheses](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0078-subsets/) | Medium |
