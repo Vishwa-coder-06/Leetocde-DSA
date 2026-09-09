@@ -36,6 +36,7 @@ ECE Student
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0198-house-robber](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0200-number-of-islands/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0455-assign-cookies](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0463-island-perimeter/) | Easy |
@@ -389,6 +390,7 @@ ECE Student
 | [0090-subsets-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0401-binary-watch](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0401-binary-watch/) | Easy |
 | [0473-matchsticks-to-square](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0473-matchsticks-to-square/) | Medium |
