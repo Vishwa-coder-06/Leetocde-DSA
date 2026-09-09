@@ -41,6 +41,7 @@ ECE Student
 | [0455-assign-cookies](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0463-island-perimeter/) | Easy |
 | [0473-matchsticks-to-square](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0473-matchsticks-to-square/) | Medium |
+| [0494-target-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0494-target-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0682-baseball-game/) | Easy |
 | [0695-max-area-of-island](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0695-max-area-of-island/) | Medium |
@@ -184,6 +185,7 @@ ECE Student
 | [0198-house-robber](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0473-matchsticks-to-square](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0473-matchsticks-to-square/) | Medium |
+| [0494-target-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0494-target-sum/) | Medium |
 | [0877-stone-game](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0978-longest-turbulent-subarray/) | Medium |
@@ -394,6 +396,7 @@ ECE Student
 | [0257-binary-tree-paths](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0401-binary-watch](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0401-binary-watch/) | Easy |
 | [0473-matchsticks-to-square](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0473-matchsticks-to-square/) | Medium |
+| [0494-target-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0494-target-sum/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1219-path-with-maximum-gold/) | Medium |
 ## Bit Manipulation
@@ -555,4 +558,12 @@ ECE Student
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0473-matchsticks-to-square](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0473-matchsticks-to-square/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0494-target-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
