@@ -241,6 +241,7 @@ ECE Student
 | [0138-copy-list-with-random-pointer](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0143-reorder-list](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0328-odd-even-linked-list](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
