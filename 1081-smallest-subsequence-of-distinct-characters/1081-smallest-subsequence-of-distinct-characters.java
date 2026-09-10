@@ -19,10 +19,10 @@ class Solution {
             st.push(ch);
             visited[ch-'a']=true;
         }
-        String res="";
+        StringBuilder sb=new StringBuilder();
         for(char c:st){
-            res+=c;
+            sb.append(c);
         }
-        return res;
+        return sb.toString();
     }
 }
