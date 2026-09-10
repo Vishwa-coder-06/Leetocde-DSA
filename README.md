@@ -99,6 +99,7 @@ ECE Student
 | [0680-valid-palindrome-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0948-bag-of-tokens/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -149,6 +150,7 @@ ECE Student
 | [0804-unique-morse-code-words](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0819-most-common-word](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0819-most-common-word/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0890-find-and-replace-pattern/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -277,6 +279,7 @@ ECE Student
 | [0739-daily-temperatures](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0853-car-fleet/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1172-dinner-plate-stacks](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1172-dinner-plate-stacks/) | Hard |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Simulation
@@ -289,6 +292,7 @@ ECE Student
 | [0739-daily-temperatures](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0853-car-fleet/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
