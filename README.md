@@ -82,6 +82,7 @@ ECE Student
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2765-longest-alternating-subarray](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2765-longest-alternating-subarray/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +139,7 @@ ECE Student
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,6 +269,7 @@ ECE Student
 | [0143-reorder-list](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [1922-count-good-numbers](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1922-count-good-numbers/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -409,6 +412,7 @@ ECE Student
 | ------- | ------- |
 | [2765-longest-alternating-subarray](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2765-longest-alternating-subarray/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
