@@ -48,6 +48,7 @@ ECE Student
 | [0695-max-area-of-island](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0739-daily-temperatures/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0804-unique-morse-code-words](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0819-most-common-word](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0819-most-common-word/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -220,6 +221,7 @@ ECE Student
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0778-swim-in-rising-water](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -271,6 +273,7 @@ ECE Student
 | [0023-merge-k-sorted-lists](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0743-network-delay-time](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1172-dinner-plate-stacks](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1172-dinner-plate-stacks/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -391,6 +394,7 @@ ECE Student
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0778-swim-in-rising-water](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0877-stone-game](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0877-stone-game/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -470,6 +474,7 @@ ECE Student
 | [0695-max-area-of-island](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0841-keys-and-rooms/) | Medium |
@@ -487,6 +492,7 @@ ECE Student
 | [0463-island-perimeter](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0733-flood-fill/) | Easy |
+| [0778-swim-in-rising-water](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0994-rotting-oranges](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1219-path-with-maximum-gold/) | Medium |
@@ -522,6 +528,7 @@ ECE Student
 | [0695-max-area-of-island](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0841-keys-and-rooms/) | Medium |
@@ -541,6 +548,7 @@ ECE Student
 | [0200-number-of-islands](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0695-max-area-of-island/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
@@ -568,6 +576,7 @@ ECE Student
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
