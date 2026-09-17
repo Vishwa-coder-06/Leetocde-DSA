@@ -46,6 +46,7 @@ ECE Student
 | [0643-maximum-average-subarray-i](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0682-baseball-game/) | Easy |
 | [0695-max-area-of-island](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0695-max-area-of-island/) | Medium |
+| [0724-find-pivot-index](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -252,6 +253,7 @@ ECE Student
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0724-find-pivot-index](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Linked List
