@@ -71,6 +71,7 @@ ECE Student
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
