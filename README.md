@@ -196,6 +196,7 @@ ECE Student
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0233-number-of-digit-one](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0264-ugly-number-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0877-stone-game](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0877-stone-game/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -210,6 +211,7 @@ ECE Student
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0198-house-robber/) | Medium |
+| [0233-number-of-digit-one](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0264-ugly-number-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0473-matchsticks-to-square](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0473-matchsticks-to-square/) | Medium |
@@ -283,6 +285,7 @@ ECE Student
 | [0050-powx-n](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0233-number-of-digit-one](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [1922-count-good-numbers](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1922-count-good-numbers/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Heap (Priority Queue)
