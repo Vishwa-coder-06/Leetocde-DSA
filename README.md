@@ -62,6 +62,7 @@ ECE Student
 | [0918-maximum-sum-circular-subarray](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0948-bag-of-tokens/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0978-longest-turbulent-subarray](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [0994-rotting-oranges](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0997-find-the-town-judge/) | Easy |
@@ -99,6 +100,7 @@ ECE Student
 | [0881-boats-to-save-people](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0948-bag-of-tokens](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0948-bag-of-tokens/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1089-duplicate-zeros/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -118,6 +120,7 @@ ECE Student
 | [0881-boats-to-save-people](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0948-bag-of-tokens](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0948-bag-of-tokens/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 ## Hash Table
