@@ -195,6 +195,7 @@ ECE Student
 | [0168-excel-sheet-column-title](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0877-stone-game](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0877-stone-game/) | Medium |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1922-count-good-numbers](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1922-count-good-numbers/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
