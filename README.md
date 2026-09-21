@@ -159,6 +159,7 @@ ECE Student
 | [0168-excel-sheet-column-title](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0257-binary-tree-paths/) | Easy |
+| [0282-expression-add-operators](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0282-expression-add-operators/) | Hard |
 | [0306-additive-number](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0306-additive-number/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -198,6 +199,7 @@ ECE Student
 | [0171-excel-sheet-column-number](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0233-number-of-digit-one](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0264-ugly-number-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0264-ugly-number-ii/) | Medium |
+| [0282-expression-add-operators](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0282-expression-add-operators/) | Hard |
 | [0877-stone-game](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0877-stone-game/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
@@ -452,6 +454,7 @@ ECE Student
 | [0131-palindrome-partitioning](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0257-binary-tree-paths/) | Easy |
+| [0282-expression-add-operators](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0282-expression-add-operators/) | Hard |
 | [0306-additive-number](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0306-additive-number/) | Medium |
 | [0401-binary-watch](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0401-binary-watch/) | Easy |
 | [0473-matchsticks-to-square](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0473-matchsticks-to-square/) | Medium |
