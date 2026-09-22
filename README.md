@@ -514,6 +514,7 @@ ECE Student
 | [0743-network-delay-time](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0841-keys-and-rooms/) | Medium |
@@ -570,6 +571,7 @@ ECE Student
 | [0743-network-delay-time](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0841-keys-and-rooms/) | Medium |
@@ -591,6 +593,7 @@ ECE Student
 | [0547-number-of-provinces](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0785-is-graph-bipartite](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
@@ -599,6 +602,7 @@ ECE Student
 | [0133-clone-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0133-clone-graph/) | Medium |
 | [0547-number-of-provinces](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0743-network-delay-time/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0841-keys-and-rooms/) | Medium |
@@ -672,4 +676,12 @@ ECE Student
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
