@@ -77,6 +77,7 @@ ECE Student
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -303,6 +304,7 @@ ECE Student
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
 | [1172-dinner-plate-stacks](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1172-dinner-plate-stacks/) | Hard |
+| [1514-path-with-maximum-probability](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -602,6 +604,7 @@ ECE Student
 | [0841-keys-and-rooms](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
 | [0997-find-the-town-judge](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0997-find-the-town-judge/) | Easy |
+| [1514-path-with-maximum-probability](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -616,6 +619,7 @@ ECE Student
 | [0743-network-delay-time](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
+| [1514-path-with-maximum-probability](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 ## Dijkstra's Algorithm
@@ -624,6 +628,7 @@ ECE Student
 | [0743-network-delay-time](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0882-reachable-nodes-in-subdivided-graph/) | Hard |
+| [1514-path-with-maximum-probability](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 ## Topological Sort
