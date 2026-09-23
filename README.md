@@ -85,6 +85,7 @@ ECE Student
 | [2012-sum-of-beauty-in-the-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2012-sum-of-beauty-in-the-array/) | Medium |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2765-longest-alternating-subarray](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2765-longest-alternating-subarray/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
@@ -114,6 +115,7 @@ ECE Student
 | [0948-bag-of-tokens](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0948-bag-of-tokens/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +126,7 @@ ECE Student
 | [0948-bag-of-tokens](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0948-bag-of-tokens/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -306,6 +309,7 @@ ECE Student
 | [1172-dinner-plate-stacks](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1172-dinner-plate-stacks/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -613,6 +617,7 @@ ECE Student
 | [1971-find-if-path-exists-in-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
+| [2497-maximum-star-sum-of-a-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
