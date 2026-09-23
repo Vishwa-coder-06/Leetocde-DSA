@@ -89,6 +89,7 @@ ECE Student
 | [2733-neither-minimum-nor-maximum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2765-longest-alternating-subarray](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2765-longest-alternating-subarray/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -311,6 +312,7 @@ ECE Student
 | [1514-path-with-maximum-probability](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -543,6 +545,7 @@ ECE Student
 | [1219-path-with-maximum-gold](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -585,6 +588,7 @@ ECE Student
 | [1162-as-far-from-land-as-possible](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -620,6 +624,7 @@ ECE Student
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -634,6 +639,7 @@ ECE Student
 | [1514-path-with-maximum-probability](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
