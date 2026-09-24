@@ -40,6 +40,7 @@ ECE Student
 | [0198-house-robber](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0216-combination-sum-iii/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0228-summary-ranges/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0455-assign-cookies](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/master/0455-assign-cookies) |
@@ -142,6 +143,7 @@ ECE Student
 | [0037-sudoku-solver](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0133-clone-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0264-ugly-number-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -245,6 +247,7 @@ ECE Student
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
