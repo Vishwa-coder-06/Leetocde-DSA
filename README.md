@@ -40,6 +40,7 @@ ECE Student
 | [0198-house-robber](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0216-combination-sum-iii/) | Medium |
+| [0228-summary-ranges](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0228-summary-ranges/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0455-assign-cookies](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0463-island-perimeter/) | Easy |
