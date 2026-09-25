@@ -43,6 +43,7 @@ ECE Student
 | [0219-contains-duplicate-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0228-summary-ranges/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0455-assign-cookies](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0463-island-perimeter/) | Easy |
 | [0473-matchsticks-to-square](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0473-matchsticks-to-square/) | Medium |
@@ -149,6 +150,7 @@ ECE Student
 | [0264-ugly-number-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0409-longest-palindrome/) | Easy |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0804-unique-morse-code-words/) | Easy |
@@ -498,6 +500,7 @@ ECE Student
 | [0090-subsets-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0401-binary-watch](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0401-binary-watch/) | Easy |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0526-beautiful-arrangement/) | Medium |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
@@ -739,4 +742,8 @@ ECE Student
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
