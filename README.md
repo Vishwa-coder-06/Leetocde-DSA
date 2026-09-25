@@ -48,6 +48,7 @@ ECE Student
 | [0463-island-perimeter](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0463-island-perimeter/) | Easy |
 | [0473-matchsticks-to-square](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0494-target-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0494-target-sum/) | Medium |
+| [0525-contiguous-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0682-baseball-game/) | Easy |
@@ -151,6 +152,7 @@ ECE Student
 | [0387-first-unique-character-in-a-string](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0525-contiguous-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0804-unique-morse-code-words/) | Easy |
@@ -290,6 +292,7 @@ ECE Student
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0525-contiguous-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0724-find-pivot-index](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
