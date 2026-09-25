@@ -3,7 +3,7 @@ class Solution {
         Set<String>seen=new HashSet<>();
         Set<String>repeated=new HashSet<>();
 
-        for(int i=0;i<=s.length()-10;i++){
+        for(int i=0;i+9<s.length();i++){
             String sub=s.substring(i,i+10);
             if(!seen.add(sub)){
                 repeated.add(sub);
