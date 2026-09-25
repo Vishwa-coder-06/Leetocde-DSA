@@ -50,6 +50,7 @@ ECE Student
 | [0494-target-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0494-target-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0575-distribute-candies](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0575-distribute-candies/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0682-baseball-game/) | Easy |
 | [0695-max-area-of-island](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0695-max-area-of-island/) | Medium |
@@ -153,6 +154,7 @@ ECE Student
 | [0409-longest-palindrome](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0525-contiguous-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0525-contiguous-array/) | Medium |
+| [0575-distribute-candies](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0575-distribute-candies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0804-unique-morse-code-words/) | Easy |
