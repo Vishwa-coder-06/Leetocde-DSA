@@ -143,6 +143,7 @@ ECE Student
 | [0037-sudoku-solver](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0133-clone-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0264-ugly-number-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -171,6 +172,7 @@ ECE Student
 | [0131-palindrome-partitioning](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0282-expression-add-operators](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0282-expression-add-operators/) | Hard |
 | [0306-additive-number](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0306-additive-number/) | Medium |
@@ -247,6 +249,7 @@ ECE Student
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -490,6 +493,7 @@ ECE Student
 | ------- | ------- |
 | [0078-subsets](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0090-subsets-ii/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0401-binary-watch](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0401-binary-watch/) | Easy |
 | [0473-matchsticks-to-square](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0526-beautiful-arrangement/) | Medium |
@@ -716,4 +720,20 @@ ECE Student
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
 <!---LeetCode Topics End-->
