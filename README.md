@@ -518,6 +518,7 @@ ECE Student
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0693-binary-number-with-alternating-bits](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 ## Bracket Sequences
