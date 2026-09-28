@@ -42,6 +42,7 @@ ECE Student
 | [0216-combination-sum-iii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0216-combination-sum-iii/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0228-summary-ranges/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0455-assign-cookies](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/master/0455-assign-cookies) |
@@ -104,6 +105,7 @@ ECE Student
 | ------- | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0143-reorder-list/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0392-is-subsequence](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0541-reverse-string-ii/) | Easy |
@@ -271,6 +273,7 @@ ECE Student
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Divide and Conquer
@@ -506,6 +509,7 @@ ECE Student
 | [0078-subsets](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0401-binary-watch](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0401-binary-watch/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0473-matchsticks-to-square/) | Medium |
@@ -754,4 +758,12 @@ ECE Student
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
