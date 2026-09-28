@@ -189,6 +189,7 @@ ECE Student
 | [0316-remove-duplicate-letters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0392-is-subsequence/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0409-longest-palindrome](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -228,6 +229,7 @@ ECE Student
 | [0233-number-of-digit-one](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0233-number-of-digit-one/) | Hard |
 | [0264-ugly-number-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0282-expression-add-operators](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0282-expression-add-operators/) | Hard |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0877-stone-game](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0877-stone-game/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -512,6 +514,7 @@ ECE Student
 | [0187-repeated-dna-sequences](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0401-binary-watch](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0401-binary-watch/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0526-beautiful-arrangement/) | Medium |
