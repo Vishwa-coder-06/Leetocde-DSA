@@ -77,6 +77,7 @@ ECE Student
 | [0994-rotting-oranges](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0997-find-the-town-judge/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1089-duplicate-zeros/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1162-as-far-from-land-as-possible](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1162-as-far-from-land-as-possible/) | Medium |
@@ -525,6 +526,7 @@ ECE Student
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0832-flipping-an-image](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
