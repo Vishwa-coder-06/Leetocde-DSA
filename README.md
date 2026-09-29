@@ -61,6 +61,7 @@ ECE Student
 | [0778-swim-in-rising-water](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0804-unique-morse-code-words](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0819-most-common-word](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0819-most-common-word/) | Easy |
+| [0832-flipping-an-image](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0853-car-fleet](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0853-car-fleet/) | Medium |
 | [0877-stone-game](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0877-stone-game/) | Medium |
@@ -112,6 +113,7 @@ ECE Student
 | [0557-reverse-words-in-a-string-iii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0832-flipping-an-image](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0948-bag-of-tokens](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0948-bag-of-tokens/) | Medium |
@@ -369,6 +371,7 @@ ECE Student
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0682-baseball-game/) | Easy |
+| [0832-flipping-an-image](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0832-flipping-an-image/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -520,6 +523,7 @@ ECE Student
 | [0526-beautiful-arrangement](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0693-binary-number-with-alternating-bits](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [0832-flipping-an-image](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -577,6 +581,7 @@ ECE Student
 | [0695-max-area-of-island](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0832-flipping-an-image](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0832-flipping-an-image/) | Easy |
 | [0994-rotting-oranges](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1219-path-with-maximum-gold/) | Medium |
