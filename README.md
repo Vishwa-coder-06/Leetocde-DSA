@@ -92,6 +92,7 @@ ECE Student
 | [1514-path-with-maximum-probability](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2012-sum-of-beauty-in-the-array/) | Medium |
@@ -174,6 +175,7 @@ ECE Student
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1172-dinner-plate-stacks](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1172-dinner-plate-stacks/) | Hard |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -207,6 +209,7 @@ ECE Student
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
@@ -217,6 +220,7 @@ ECE Student
 | [0819-most-common-word](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0819-most-common-word/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Queue
@@ -531,6 +535,7 @@ ECE Student
 | [1009-complement-of-base-10-integer](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
