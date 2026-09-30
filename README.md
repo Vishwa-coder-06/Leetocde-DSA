@@ -93,6 +93,7 @@ ECE Student
 | [1572-matrix-diagonal-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1720-decode-xored-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1720-decode-xored-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2012-sum-of-beauty-in-the-array/) | Medium |
@@ -546,6 +547,7 @@ ECE Student
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1720-decode-xored-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1720-decode-xored-array/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1763-longest-nice-substring/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
