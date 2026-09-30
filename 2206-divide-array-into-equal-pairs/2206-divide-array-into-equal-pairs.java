@@ -1,11 +1,10 @@
 class Solution {
     public boolean divideArray(int[] nums) {
-        Set<Integer> st=new HashSet<>();
-        for(int num:nums){
-            if(!st.add(num)){
-                st.remove(num);
-            }
+        int[] hash=new int[501];
+        for(int num:nums) hash[num]++;
+        for(int freq:hash){
+            if(freq%2==1) return false;
         }
-        return st.isEmpty();
+        return true;
     }
 }
