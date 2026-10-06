@@ -71,6 +71,7 @@ ECE Student
 | [0904-fruit-into-baskets](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0922-sort-array-by-parity-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0942-di-string-match](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0942-di-string-match/) | Easy |
 | [0948-bag-of-tokens](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0948-bag-of-tokens/) | Medium |
@@ -128,6 +129,7 @@ ECE Student
 | [0844-backspace-string-compare](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0925-long-pressed-name](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0925-long-pressed-name/) | Easy |
 | [0942-di-string-match](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0942-di-string-match/) | Easy |
 | [0948-bag-of-tokens](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0948-bag-of-tokens/) | Medium |
@@ -153,6 +155,7 @@ ECE Student
 | [0853-car-fleet](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0853-car-fleet/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0948-bag-of-tokens](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0948-bag-of-tokens/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
