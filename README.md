@@ -125,6 +125,7 @@ ECE Student
 | [0696-count-binary-substrings](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0696-count-binary-substrings/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0832-flipping-an-image/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0925-long-pressed-name](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0925-long-pressed-name/) | Easy |
@@ -223,6 +224,7 @@ ECE Student
 | [0804-unique-morse-code-words](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0819-most-common-word](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0925-long-pressed-name](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0925-long-pressed-name/) | Easy |
 | [0942-di-string-match](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0942-di-string-match/) | Easy |
@@ -402,6 +404,7 @@ ECE Student
 | [0316-remove-duplicate-letters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0682-baseball-game](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0739-daily-temperatures/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0853-car-fleet](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0853-car-fleet/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -413,6 +416,7 @@ ECE Student
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0832-flipping-an-image/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0844-backspace-string-compare/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
