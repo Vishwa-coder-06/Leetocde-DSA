@@ -101,6 +101,7 @@ ECE Student
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2012-sum-of-beauty-in-the-array/) | Medium |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
@@ -135,6 +136,7 @@ ECE Student
 | [0948-bag-of-tokens](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0948-bag-of-tokens/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1089-duplicate-zeros/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,6 +241,7 @@ ECE Student
 | [1763-longest-nice-substring](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1763-longest-nice-substring/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Counting
