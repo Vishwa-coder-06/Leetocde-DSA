@@ -104,6 +104,7 @@ ECE Student
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
+| [2367-number-of-arithmetic-triplets](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2765-longest-alternating-subarray](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2765-longest-alternating-subarray/) | Easy |
@@ -137,6 +138,7 @@ ECE Student
 | [0977-squares-of-a-sorted-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1089-duplicate-zeros/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +200,7 @@ ECE Student
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -532,6 +535,7 @@ ECE Student
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2765-longest-alternating-subarray](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2765-longest-alternating-subarray/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
