@@ -236,6 +236,7 @@ ECE Student
 | [0890-find-and-replace-pattern](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0925-long-pressed-name](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0925-long-pressed-name/) | Easy |
 | [0942-di-string-match](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0942-di-string-match/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -416,6 +417,7 @@ ECE Student
 | [0844-backspace-string-compare](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0853-car-fleet](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0853-car-fleet/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1172-dinner-plate-stacks](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1172-dinner-plate-stacks/) | Hard |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -592,6 +594,7 @@ ECE Student
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
