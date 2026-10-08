@@ -138,6 +138,7 @@ ECE Student
 | [0948-bag-of-tokens](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0948-bag-of-tokens/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1089-duplicate-zeros/) | Easy |
+| [1332-remove-palindromic-subsequences](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -244,6 +245,7 @@ ECE Student
 | [1021-remove-outermost-parentheses](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1332-remove-palindromic-subsequences](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
