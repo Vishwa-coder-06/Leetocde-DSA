@@ -89,6 +89,7 @@ ECE Student
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -140,6 +141,7 @@ ECE Student
 | [1089-duplicate-zeros](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1089-duplicate-zeros/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -168,6 +170,7 @@ ECE Student
 | [0977-squares-of-a-sorted-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
@@ -338,6 +341,7 @@ ECE Student
 | [0778-swim-in-rising-water](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
