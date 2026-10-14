@@ -160,6 +160,7 @@ ECE Student
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,6 +300,7 @@ ECE Student
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1922-count-good-numbers](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1922-count-good-numbers/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3870-count-commas-in-range/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
