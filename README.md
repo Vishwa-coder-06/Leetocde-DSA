@@ -145,6 +145,7 @@ ECE Student
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 ## Greedy
@@ -260,6 +261,7 @@ ECE Student
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -440,6 +442,7 @@ ECE Student
 | [1172-dinner-plate-stacks](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1172-dinner-plate-stacks/) | Hard |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
