@@ -111,6 +111,7 @@ ECE Student
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2765-longest-alternating-subarray](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2765-longest-alternating-subarray/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -148,6 +149,7 @@ ECE Student
 | [2000-reverse-prefix-of-word](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +180,7 @@ ECE Student
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2497-maximum-star-sum-of-a-graph/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -349,6 +352,7 @@ ECE Student
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
