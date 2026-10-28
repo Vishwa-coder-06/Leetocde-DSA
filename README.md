@@ -116,6 +116,7 @@ ECE Student
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -332,6 +333,7 @@ ECE Student
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -616,6 +618,7 @@ ECE Student
 | [2206-divide-array-into-equal-pairs](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -682,6 +685,7 @@ ECE Student
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
