@@ -14,11 +14,23 @@
  * }
  */
 class Solution {
+    int minDepth;
+    void dfs(TreeNode root,int depth){
+        if(root == null) return;
+        depth++;
+        if(root.left==null && root.right==null){
+            minDepth=Math.min(minDepth,depth);
+            return;
+        }
+        if(depth>=minDepth) return;
+        dfs(root.left,depth);
+        dfs(root.right,depth);
+    }
     public int minDepth(TreeNode root) {
         if(root==null) return 0;
-        int left=minDepth(root.left);
-        int right=minDepth(root.right);
-        return (left==0 || right==0) ? left+right+1 : Math.min(left,right)+1;
+        minDepth=Integer.MAX_VALUE;
+        dfs(root,0);
+        return minDepth;
         
     }
 }
