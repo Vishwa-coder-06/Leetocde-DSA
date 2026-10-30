@@ -497,6 +497,7 @@ ECE Student
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Binary Search Tree
@@ -546,6 +547,7 @@ ECE Student
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Data Stream
@@ -669,6 +671,7 @@ ECE Student
 | [0841-keys-and-rooms](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -732,6 +735,7 @@ ECE Student
 | [0797-all-paths-from-source-to-target](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0993-cousins-in-binary-tree](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vishwa-coder-06/Leetocde-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
